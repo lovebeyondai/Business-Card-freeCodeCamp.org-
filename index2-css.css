@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(12, 14, 14);
+    width: 450px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 4px solid goldenrod;
+    border-radius: 5px;
+}
+
+
+.align{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+.profile{
+    width: 150px;
+    padding-right: 30px;
+}
+
+
+.text{
+    text-align: center;
+    color: aliceblue;
+}
